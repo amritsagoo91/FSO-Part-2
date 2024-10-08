@@ -1,0 +1,3 @@
+[submodule "courseInfo"]
+	path = courseInfo
+	url = https://github.com/amritsagoo91/courseInfo.git
