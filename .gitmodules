@@ -1,3 +1,6 @@
 [submodule "courseInfo"]
 	path = courseInfo
 	url = https://github.com/amritsagoo91/courseInfo.git
+[submodule "phonebook"]
+	path = phonebook
+	url = https://github.com/amritsagoo91/phonebook.git
