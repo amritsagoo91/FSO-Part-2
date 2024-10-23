@@ -4,3 +4,6 @@
 [submodule "phonebook"]
 	path = phonebook
 	url = https://github.com/amritsagoo91/phonebook.git
+[submodule "countries"]
+	path = countries
+	url = https://github.com/amritsagoo91/countries.git
